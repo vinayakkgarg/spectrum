@@ -1,6 +1,11 @@
 h1{
   text-align: center;
   font-family: 'Carter One', cursive;
+  color: white;
+}
+
+body{
+  background-color: black;
 }
 
 table{
@@ -10,7 +15,8 @@ table{
 td{
   height: 200px;
   width: 150px;
-  border: 6px solid white;
+  border: 6px solid black;
+  border-bottom: 60px solid black;
 }
 #one{
   background: #4D5057;
@@ -30,4 +36,81 @@ td{
 
 #five{
   background: #CFCFCF;
+}
+
+/* _____________________________ */
+
+#six{
+  background: #EE8434;
+}
+
+#seven{
+  background: #C95D63;
+}
+
+#eight{
+  background: #AE8799;
+}
+
+#nine{
+  background: #717EC3;
+}
+
+#ten{
+  background: #3C5AB4;
+}
+
+#eleven{
+  background: #717EC3;
+}
+
+#twelve{
+  background: #625F63;
+}
+
+#thirteen{
+  background: #72727E;
+}
+
+/* _____________________________ */
+
+
+#fourteen{
+  background: #6DD3CE;
+}
+
+#fifteen{
+  background: #C8E9A0;
+}
+
+#sixteen{
+  background: #F7A278;
+}
+
+#seventeen{
+  background: #A13D63;
+}
+
+#eighteen{
+  background: #351E29;
+}
+
+#nineteen{
+  background: #55D6BE;
+}
+
+#twenty{
+  background: #7CEA9C;
+}
+
+#twentyone{
+  background: #63A088;
+}
+
+#twentytwo{
+  background: #56638A;
+}
+
+#twentythree{
+  background: #483A58;
 }
